@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Alacritty DotFiles
 
 Configuration files for [Alacritty](https://github.com/alacritty/alacritty), a fast and lightweight terminal emulator. These dotfiles include custom settings for themes, fonts, keybindings, and more, to enhance your terminal experience.
@@ -20,17 +18,16 @@ Configuration files for [Alacritty](https://github.com/alacritty/alacritty), a f
 Navigate to the directory:
 
 bash
-Copy code
+
 cd Alacritty_DotFiles
 Backup your existing configuration (if any):
 
 bash
-Copy code
 mv ~/.config/alacritty/alacritty.yml ~/.config/alacritty/alacritty_backup.yml
 Copy the configuration file to your Alacritty config directory:
 
 bash
-Copy code
+
 cp alacritty.yml ~/.config/alacritty/alacritty.yml
 Customization
 Feel free to tweak the alacritty.yml file according to your preferences. Below are some commonly modified settings:
@@ -53,7 +50,6 @@ This repository is licensed under the MIT License.
 
 Happy Coding! 🖥️🚀
 
-vbnet
-Copy code
+
 
 Make sure to replace the image link in the "Preview" section with an actual screenshot of your terminal setup, if you'd like to include one.
