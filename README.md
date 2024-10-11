@@ -22,10 +22,17 @@ cd Alacritty_DotFiles
 ```
 3. **Backup your existing configuration (if any)**:
 ```bash
-mv ~/.config/alacritty/alacritty.yml ~/.config/alacritty/alacritty_backup.yml
+mv ~/.config/alacritty/alacritty.yml ~/.config/alacritty/alacritty_backup.toml
 ```
 4. **Copy the configuration file to your Alacritty config directory**:
 ```
-cp alacritty.yml ~/.config/alacritty/alacritty.yml
+cp alacritty.yml ~/.config/alacritty/alacritty.toml
+```
 
 
+Customization:
+Feel free to tweak the alacritty.toml file according to your preferences. Below are some commonly modified settings:
+
+- Change Theme: Modify the colors section for custom color schemes.
+- Adjust Font: Change font.family and font.size for different font styles and sizes.
+- Modify Keybindings: Update the key_bindings section to customize shortcuts.
