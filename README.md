@@ -17,5 +17,15 @@ Configuration files for [Alacritty](https://github.com/alacritty/alacritty), a f
    git clone https://github.com/usopali/Alacritty_DotFiles.git
 
 2.  **Navigate to the directory**:
-   ```bash
+   ```
 cd Alacritty_DotFiles
+
+3. **Backup your existing configuration (if any)**:
+```bash
+mv ~/.config/alacritty/alacritty.yml ~/.config/alacritty/alacritty_backup.yml
+
+4. **Copy the configuration file to your Alacritty config directory**:
+
+cp alacritty.yml ~/.config/alacritty/alacritty.yml
+
+
