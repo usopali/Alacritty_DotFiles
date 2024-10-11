@@ -45,4 +45,4 @@ Feel free to tweak the alacritty.toml file according to your preferences. Below 
 
 ## Requirements:
 
-Alacritty: Ensure that Alacritty is installed on your system. Refer to the .[official installation guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) if needed.
+Alacritty: Ensure that Alacritty is installed on your system. Refer to the [official installation guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) if needed.
