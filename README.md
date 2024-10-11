@@ -40,8 +40,9 @@ Feel free to tweak the alacritty.toml file according to your preferences. Below 
 
 
 ## Preview:
-![alacritty]()
+![alacritty](1.png)
 
+![alacritty2](2.png)
 
 ## Requirements:
 
