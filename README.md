@@ -31,6 +31,7 @@ cp alacritty.yml ~/.config/alacritty/alacritty.toml
 
 
 Customization:
+
 Feel free to tweak the alacritty.toml file according to your preferences. Below are some commonly modified settings:
 
 - Change Theme: Modify the colors section for custom color schemes.
